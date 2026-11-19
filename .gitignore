@@ -11,3 +11,10 @@ coverage/
 .kilo/
 .backup_vite_fix/firebase-applet-config.json
 firebase-blueprint.json
+# Firebase configuration
+firebase-applet-config.json
+service-account*.json
+*-service-account*.json
+
+# Local backup files
+.backup_vite_fix/
