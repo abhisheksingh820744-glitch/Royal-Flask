@@ -1,0 +1,6 @@
+{
+  "name": "ROYAL FLASK",
+  "description": "Indian luxury Home & Kitchen e-commerce platform for insulated flasks, cookware, tableware, appliances, and home essentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

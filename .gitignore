@@ -1,0 +1,13 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+.backup_pre_security_hardening/
+.aistudio/
+.kilo/
+.backup_vite_fix/firebase-applet-config.json
+firebase-blueprint.json
